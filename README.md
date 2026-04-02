@@ -33,14 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IKSmile\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IKSmile\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
 ## 🔥 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IKSmile\&theme=tokyo-night\&hide_border=true)
