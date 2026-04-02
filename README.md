@@ -75,7 +75,7 @@ Eastern Mediterranean University – Cyprus (2020 – 2024)
 Eastern Mediterranean University (2019 – 2020)
 
 💻 Industrial IT & Networks  
-ISPTECH – Kinshasa (2016 – 2019)
+ISPT – Kinshasa (2016 – 2019)
 
 ---
 
