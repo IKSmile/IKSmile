@@ -1,126 +1,107 @@
 ## 👋 Hi there, I'm Isaac Kuakua Matalatala
 
-💻 **IT Engineer & Full Stack Developer**  
-📍 Kinshasa, DR Congo  
-📧 Isaackuakua02@gmail.com  
-📞 +243897121420  
+💻 **IT Engineer | Full Stack Developer**
+📍 Kinshasa, DR Congo
+📧 [Isaackuakua02@gmail.com](mailto:Isaackuakua02@gmail.com)
 
 ---
 
-### 🚀 About Me
+## 🌙 About Me
 
-Passionate Full Stack Developer specialized in building **web, desktop, and mobile applications**.
+🚀 Passionate developer building **scalable, secure, and user-focused applications**
 
-I focus on creating:
-- 🔐 Secure systems  
-- ⚡ High-performance applications  
-- 🎯 User-centered experiences  
-
-I enjoy transforming ideas into **robust digital solutions**, especially in **QHSE systems, APIs, and scalable platforms**.
+* 🔭 Currently working on **QHSE digital platforms & enterprise systems**
+* ⚡ Specialized in **Laravel, Flutter & API development**
+* 🎯 Focus: **Performance, UX & Automation**
 
 ---
 
-### 🧠 Tech Stack
+## 🚀 Tech Stack
 
-#### 🖥️ Languages & Frameworks
-- Laravel (v9 → v12)
-- Flutter
-- JavaFX
-- Bootstrap / Tailwind CSS
-- Python (Flask, EEL)
+### 💻 Backend & Frontend
 
-#### ⚙️ Tools & Software
-- Xcode, Android Studio, Visual Studio  
-- Figma, Sketch  
-- Adobe Suite (Photoshop, Illustrator, Premiere Pro, After Effects)  
-- Blender, SketchUp  
-- Microsoft Suite (Word, Excel, PowerPoint, Project, Visio)  
-- IBM SPSS, Proteus  
-- FileZilla  
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge\&logo=flutter)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge\&logo=tailwindcss)
 
-#### 🌐 CRM
-- WordPress  
+### ⚙️ Tools
+
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge\&logo=figma)
+![Adobe](https://img.shields.io/badge/Adobe-red?style=for-the-badge\&logo=adobe)
+![Xcode](https://img.shields.io/badge/Xcode-blue?style=for-the-badge\&logo=xcode)
 
 ---
 
-### 💼 Professional Experience
+## 📊 GitHub Stats
 
-#### 🟢 Consultant Analyst Programmer  
-**Optimum Solution** | Nov 2025 – Present  
-- Developed a **QHSE digitalization platform**
-- Improved enterprise workflow automation
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IKSmile\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-#### 🔵 Junior Analyst Programmer  
-**We Market SARL** | Mar 2025 – Nov 2025  
-- Built a **digital services platform**
-- Backend development with **Laravel (PHP)**
-- Focus on UX and scalable architecture
-
-#### 🟣 UI/UX Lead & Developer  
-**Illumination Metaverse Group** | Oct 2024 – Feb 2025  
-- Designed interfaces using **Figma & Sketch**
-- Worked with **WordPress (CRM-based projects)**
-
-#### ⚙️ IT Technician  
-**Arkin Hotel, Iskele** | Mar 2024 – May 2024  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IKSmile\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-### 🎓 Education
+## 🔥 Contribution Graph
 
-🎓 **BSc in Information Technology**  
-Eastern Mediterranean University – Cyprus (2020 – 2024)
-
-📘 Preparatory English Program  
-Eastern Mediterranean University (2019 – 2020)
-
-💻 Industrial IT & Networks  
-ISPT – Kinshasa (2016 – 2019)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IKSmile\&theme=tokyo-night\&hide_border=true)
 
 ---
 
-### 📜 Certifications
+## 💼 Featured Projects
 
-- ISO/IEC 27001 – ISMS  
-- ISO 27001:2022 Update  
-- ISO 37301 – Compliance Management  
-- Cybersecurity Incident Response Planning  
+### 🟢 QHSE Management System
 
----
+* Full Laravel system (Web + API)
+* Inventory + Medical + Tools modules
+* PDF/Excel export + Mobile integration
 
-### 🧩 Soft Skills
+### 🔵 Laravel PWA Offline App
 
-- 🔒 Confidentiality  
-- 🎯 Attention to detail  
-- 📊 Reliability & rigor  
-- 🔄 Adaptability  
-- 😌 Stress management  
-- 🗣️ Communication  
-- 👨‍💼 Leadership  
+* Full offline support (Service Worker + Sync)
+* Push notifications (Firebase)
+* API-first architecture
 
----
+### 🟣 Flutter WebView App
 
-### 🌍 Languages
+* Android & iOS ready
+* Splash screen + Offline page
+* Firebase push notifications
 
-- 🇬🇧 English (C2)
-- 🇫🇷 French (Native)
-- 🇨🇩 Lingala (Spoken)
-- 🇨🇩 Kikongo (Spoken)
+### 🟡 EPI Management App (Flutter + SQLite)
+
+* Local database
+* Search, filter, statistics
+* Full CRUD system
 
 ---
 
-### 📌 Current Focus
+## 🧠 Certifications
 
-- 🔥 Laravel Advanced Systems (API, PWA, Offline-first)
-- 📱 Flutter Apps with backend integration
-- ⚙️ Automation (QHSE, inventory, enterprise systems)
-
----
-
-### 🤝 Let's Connect
-
-💬 Feel free to reach out for collaboration, freelance work, or tech discussions!
+* ISO/IEC 27001 – ISMS
+* ISO 37301 – Compliance
+* Cybersecurity Incident Response
 
 ---
 
-⭐️ *"Building solutions that make impact through technology."*
+## 🌍 Languages
+
+🇬🇧 English (C2)
+🇫🇷 French (Native)
+🇨🇩 Lingala
+🇨🇩 Kikongo
+
+---
+
+## 🤝 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge\&logo=gmail)](mailto:Isaackuakua02@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+💡 I build systems that **work even without internet (offline-first apps)**
+
+---
+
+⭐️ *"Code. Secure. Scale. Repeat."*
